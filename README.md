@@ -1,6 +1,6 @@
 <h1 align="center">ChangeTitans</h1>
 
-<h3 align="center">ChangeTitans: Remote Sensing Change Detection with Neural Memory</h3>
+<h3 align="center">ChangeTitans: Towards Remote Sensing Change Detection with Neural Memory</h3>
 
 ## 🔭Overview
 
